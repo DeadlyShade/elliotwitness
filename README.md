@@ -90,7 +90,7 @@
     <p align="center">$${\color{#C69F81}\textbf{𝒍𝒆𝒂𝒔𝒕 𝒇𝒂𝒗𝒐𝒓𝒊𝒕𝒆}}$$
     <p align="center">$${\color{#C69F81}\textbf{𝑭𝒓𝒐𝒛𝒆𝒏𝑫𝒆𝒃𝒕}}$$
     <p align="center">$${\color{#C69F81}\textbf{𝑻𝒉𝒊𝒔 𝒊𝒔 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒐𝒑𝒊𝒏𝒊𝒐𝒏.}}$$
-    <p align="center">$${\color{#C69F81}\textbf𝒊 𝒅𝒐 𝒏𝒐𝒕 𝒔𝒖𝒑𝒑𝒐𝒓𝒕 𝒑𝒓**𝒔𝒉𝒊𝒑𝒑𝒊𝒏𝒈/𝒅𝒂𝒓𝒌𝒔𝒉𝒊𝒑𝒑𝒆𝒓𝒔}}$$
+    <p align="center">$${\color{#C69F81}\textbf{𝒊 𝒅𝒐 𝒏𝒐𝒕 𝒔𝒖𝒑𝒑𝒐𝒓𝒕 𝒑𝒓**𝒔𝒉𝒊𝒑𝒑𝒊𝒏𝒈/𝒅𝒂𝒓𝒌𝒔𝒉𝒊𝒑𝒑𝒆𝒓𝒔}}$$
     </details>
 
 <p align="center">$${\color{#C69F81}\textbf{...}}{\color{#C69F81}\textbf{୨}}{\color{#C69F81}\textbf{✩}}{\color{#C69F81}\textbf{୧}}{\color{#C69F81}\textbf{...}}$$
